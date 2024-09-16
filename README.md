@@ -1,7 +1,7 @@
 # Randox.
 A Simple and Beautiful Random Number Extraction Program.
 
-<img width="912" alt="截屏2024-09-16 上午2 05 51" src="https://github.com/user-attachments/assets/e44bc69a-482b-4891-8bbc-cd934eeb8b6d">
+<img width="912" alt="截屏2024-09-16 下午5 23 38" src="https://github.com/user-attachments/assets/68d544ff-4246-4124-8906-11a12cf29671">
 
 
 ## About The Project ( & Me )
