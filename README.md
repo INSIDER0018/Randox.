@@ -24,11 +24,11 @@ No Installation Program, so just run it directly.
 
 ### Step 3. Use it
 
-With the window appearing, you can start using it. If you need help, go to [the Issues Page](https://github.com/INSIDER0018/randox/issues) or [the Guidelines](https://github.com/INSIDER0018/randox).
+With the window appearing, you can start using it. If you need help, go to [the Issues Page](https://github.com/INSIDER0018/randox/issues) or [The Guidelines (Still Working) ](https://github.com/INSIDER0018/randox).
 
 ## Some Links
 
-#### 1. [The Guidelines](https://github.com/INSIDER0018/randox)
+#### 1. [The Guidelines (Still Working) ](https://github.com/INSIDER0018/randox)
 
 #### 2. [My Bilibili Account Page](https://space.bilibili.com/403237454)
 
